@@ -1,6 +1,6 @@
 <div align="center">
 
-![MasterHead](https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif)
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnM1eXZ1ZjZldmF2NXlqcGtxNGJkOGMwd2tmc2d2bTEydHh3ODRxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 </div>
 <p align="center">
   <!-- Typing SVG   -->
@@ -10,7 +10,7 @@
 
 <p align="middle">
   <a href="https://www.linkedin.com/in/jifengsun01/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="jifengsun01@Gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jifengsun01@Gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  
 </p>
 
@@ -26,10 +26,13 @@
 
 
 ### Language and Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![CSSModule](https://img.shields.io/badge/Css%20Module-000000.svg?style=for-the-badge&logo=css-modules&logoColor=white)
