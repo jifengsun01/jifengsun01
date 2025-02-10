@@ -22,7 +22,8 @@
 ### Recent Projects :
 
 - [Expensify: a full-featured expense manager application that provides a comprehensive set of functionalities for managing your finances.](https://github.com/jifengsun01/expensify-app)
-- [Employee Management: an employee management application](https://github.com/jifengsun01/EmployeeManagementApp) 
+- [Employee Management: an employee management application](https://github.com/jifengsun01/EmployeeManagementApp)
+- [Movie Review: a movie review application provides functionality to browse movies, view their details, and read or write reviews ](https://github.com/jifengsun01/MovieReviewApp)  
 
 
 ### Language and Tools
